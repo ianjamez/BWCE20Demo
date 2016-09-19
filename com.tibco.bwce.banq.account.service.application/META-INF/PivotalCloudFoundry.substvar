@@ -59,7 +59,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>//com.tibco.bwce.banq.account.service//DB_USERNAME</name>
-			<value>#DB_USER#</value>
+			<value>#DB_USER1#</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
