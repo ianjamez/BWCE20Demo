@@ -67,7 +67,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>DB_PASSWORD</name>
-			<value>#!Uwxv2Z+WBZmHrNUwJJyoiMJ7c3KcvGvmK0DHLJ30mFs=</value>
+			<value>#!VTkhWGQC0A7KQAWyvxzjwlIvl/HlUE5GT5yBu2tiur4=</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>Password</type>
@@ -75,7 +75,7 @@
 		</globalVariable>
 		<globalVariable>
 			<name>DB_JDBC_URL</name>
-			<value>jdbc:postgresql://ij.cs6wvanriwtz.ap-southeast-2.redshift.amazonaws.com:5439/dev</value>
+			<value>jdbc:postgresql://ij.cpstv93d7k5x.ap-southeast-2.rds.amazonaws.com:5432/ij</value>
 			<deploymentSettable>false</deploymentSettable>
 			<serviceSettable>false</serviceSettable>
 			<type>String</type>
