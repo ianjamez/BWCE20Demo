@@ -103,6 +103,7 @@
           <env>
             <APP_CONFIG_PROFILE>${bwpcf.env.0}</APP_CONFIG_PROFILE>
             <BW_LOGLEVEL>${bwpcf.env.1}</BW_LOGLEVEL>
+            <BW_PROFILE>${bwpcf.env.2}</BW_PROFILE>
           </env>
           <services>
             <!-- Add services you want to create and bind here -->
