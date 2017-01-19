@@ -100,6 +100,10 @@
           <skip>false</skip>
           <memory>${bwpcf.memory}</memory>
           <buildpack>${bwpcf.buildpack}</buildpack>
+          <env>
+            <APP_CONFIG_PROFILE>${bwpcf.env.0}</APP_CONFIG_PROFILE>
+            <BW_LOGLEVEL>${bwpcf.env.1}</BW_LOGLEVEL>
+          </env>
           <services>
             <!-- Add services you want to create and bind here -->
             <service>
